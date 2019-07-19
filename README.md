@@ -1,2 +1,2 @@
 # hello-world
-sample project
+sample project application
